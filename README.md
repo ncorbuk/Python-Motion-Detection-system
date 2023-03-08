@@ -13,7 +13,7 @@
 
 ## If you would like to leave a tip you can do so below, thanks 
 * PayPal: https://paypal.me/w3w3w3
-* Bitcoin: 1EHmioBmujNAyVs5A6Uo1nfto9JZhGBDLd
+
 
 
 ## Built With
