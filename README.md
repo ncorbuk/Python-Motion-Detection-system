@@ -12,7 +12,6 @@
 **Python_AND_Hacking subreddit: https://bit.ly/2Uf3gbw**
 
 ## If you would like to leave a tip you can do so below, thanks 
-* PayPal: https://paypal.me/w3w3w3
 
 
 
